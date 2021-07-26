@@ -5,6 +5,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using System;
 
+//this is trial
 namespace ContosoUniversityMVC
 {
     public class Program
